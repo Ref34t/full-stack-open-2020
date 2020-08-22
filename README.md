@@ -1,2 +1,2 @@
 # full-stack-open-2020
-Complete Submitted Exercised of The Full Stack Open 2020 Program 
+The Complete Submitted Exercises of The Full Stack Open 2020 Program 
